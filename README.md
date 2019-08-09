@@ -1,18 +1,23 @@
 # TrackTrackBang
 
+## Resources
 
-## Style
+
+### SVG
+https://isometric.online/
+
+### Style
 * isometric game
 * pixel https://www.behance.net/gallery/54029831/Pixel-Art-City
 * ascii https://atygeek.itch.io/wrongkynd
 * ++ try http://wikilexalofflegames1.09www.lexaloffle.com/bbs/superblog.php?cat=7 
 * https://itch.io/games/genre-shooter/html5
 
-## Examples
+### Examples
 * HTML games: https://itch.io/games/html5 and https://superdevresources.com/open-source-html5-games/
 * Space shooter +++ : https://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/ and https://ondras.zarovi.cz/games/just-spaceships/ 
 
-## Frameworks
+### Frameworks
 * https://jsiso.com/ --> see https://dmikis.github.io/gamejam/ as an example
 * https://excaliburjs.com/docs/api/edge/?no-cache=1 
 * https://www.pixijs.com/gallery + https://pixijs.io/examples/#/plugin-layers/lighting.js + TS: https://github.com/pixijs/pixi-typescript
@@ -20,7 +25,7 @@
 * https://www.quora.com/What-is-the-best-HTML5-framework-for-isometric-games
 * http://www.melonjs.org/
 
-## Browser extensions
+### Browser extensions
 * https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension
 * https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_second_WebExtension
 * +++ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Intercept_HTTP_requests#Logging_request_URLs
