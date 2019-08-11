@@ -7,7 +7,9 @@
 * version 3: who still sends it even though i set DNT
 
 
-version 1 features:  
+MVP features:   
+* es6 clean code  
+* dialy things in a window
 * can delete cookies
 * can send do not track (?) 
 * can disable fingerprinting https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
