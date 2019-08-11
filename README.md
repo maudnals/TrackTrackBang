@@ -1,5 +1,11 @@
 # TrackTrackBang
 
+## Roadmap
+
+* version 1: display ALL cookies and enable users to send do not track (+ delete), or simply link to browser settings (or even is there an API to set don't track mode)
+* version 2: listen and see where the 3rd party cookies came from
+* version 3: who still sends it even though i set DNT
+
 ## Resources
 
 
@@ -18,6 +24,7 @@ https://isometric.online/
 * Space shooter +++ : https://hacks.mozilla.org/2012/03/developing-a-simple-html5-space-shooter/ and https://ondras.zarovi.cz/games/just-spaceships/ 
 
 ### Frameworks
+* +++++ * aframe
 * https://jsiso.com/ --> see https://dmikis.github.io/gamejam/ as an example
 * https://excaliburjs.com/docs/api/edge/?no-cache=1 
 * https://www.pixijs.com/gallery + https://pixijs.io/examples/#/plugin-layers/lighting.js + TS: https://github.com/pixijs/pixi-typescript
