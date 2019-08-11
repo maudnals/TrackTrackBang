@@ -9,12 +9,17 @@
 
 MVP features:   
 * es6 clean code  
-* dialy things in a window
+* display stuff in a window, make it clickable
 * can delete cookies
 * can send do not track (?) 
 * can disable fingerprinting https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
 * can disable all 3rd party cookies https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
-* can enable tracking protection mode https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
+* can enable tracking protection mode https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites  
+* link to privacy protection 
+
+
+Version 2:   
+display new cookies aka what happens when you click accept all.
 
 
 ## Resources
