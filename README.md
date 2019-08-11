@@ -6,6 +6,15 @@
 * version 2: listen and see where the 3rd party cookies came from
 * version 3: who still sends it even though i set DNT
 
+
+version 1 features:  
+* can delete cookies
+* can send do not track (?) 
+* can disable fingerprinting https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
+* can disable all 3rd party cookies https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
+* can enable tracking protection mode https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/privacy/websites 
+
+
 ## Resources
 
 
